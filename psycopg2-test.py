@@ -10,8 +10,8 @@ import psycopg2
 import getpass
 
 # Get the database login info. *** REPLACE THE DATABASE NAME AND USER WITH YOUR USERNAME ***
-database = 'chanj3'
-user = 'chanj3'
+database = 'byund'
+user = 'byund'
 password = getpass.getpass()
 
 # Login to the database
